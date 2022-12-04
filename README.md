@@ -7,6 +7,7 @@ $ npm install
 ```
 
 ## Running the app
+Some changes
 
 ```bash
 # development
